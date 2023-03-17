@@ -1,0 +1,16 @@
+## Interface: 100010
+## Title: Perfect Interrupts
+## Notes: Party and Raid Interrupt Manager
+## Author: rljohn
+## OptionalDeps: _DebugLog
+## SavedVariables: PerfectInterruptsDB
+
+embeds.xml
+
+# Core Files
+addon.lua
+config.lua
+config_panels.lua
+events.lua
+helper.lua
+localisation.lua

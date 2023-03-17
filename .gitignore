@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+.vscode/extensions.json
+.vscode/settings.json
+PerfectInterupts.code-workspace
